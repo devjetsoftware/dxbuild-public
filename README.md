@@ -1,6 +1,6 @@
 # DXBuild
 
-DXBuild is a **free** command line tool. It makes it easier to build multi-version Delphi projects (dproj/groupproj).
+DXBuild is a **free** command line tool. It makes it easier to build multi-version Delphi projects (Delphi 2007 or newer, dproj/groupproj).
 
 ## Example
 
