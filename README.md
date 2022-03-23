@@ -15,7 +15,7 @@ dxbuild Spring4D\Packages\DelphiXE2\Spring.Base.dproj -d DelphiXE2 -p Win32 Win6
 https://www.idefixpack.de/blog/ide-tools/ide-fix-pack/
 
 NOTE: 
-- For Delphi XE2 or higher, you just need to download and extract fastdcc*.exe to `$(BDS)\bin`. 
+- For Delphi XE3 or higher, you just need to download and extract fastdcc*.exe to `$(BDS)\bin`. 
 - dxbuild will use fastdcc when possible. Use `--no-fastdcc` to disable it.
 
 ## Licensing
