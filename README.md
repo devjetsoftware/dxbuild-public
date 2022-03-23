@@ -5,7 +5,7 @@ DXBuild is a **free** command line tool. It makes it easier to build multi-versi
 ## Example
 
 ```cmd
-dxbuild Spring4D\Packages\DelphiXE2\Spring.Base.dproj -d DelphiXE2 -p Win32 Win64 -c Debug Release
+dxbuild Packages\DelphiXE2\Spring.Base.dproj -d DelphiXE2 -p Win32 Win64 -c Debug Release
 ```
 
 ## Benefits
